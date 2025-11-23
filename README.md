@@ -1,2 +1,2 @@
 # shop-app
-Tienda Virtual
+Tienda virtual
